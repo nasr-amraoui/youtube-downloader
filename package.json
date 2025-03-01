@@ -16,7 +16,8 @@
     "react-axios": "^2.0.6",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
-    "vode": "^0.1.6"
+    "vode": "^0.1.6",
+    "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
